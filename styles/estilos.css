@@ -4,3 +4,6 @@ body {
   color: #fff;
   font-size: 16px;
 }
+header {
+  padding: 2em;
+}
